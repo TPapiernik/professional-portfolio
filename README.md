@@ -1,2 +1,2 @@
-# professional-portfolio
+# Professional Portfolio
 Professional Portfolio
